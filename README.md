@@ -4,6 +4,8 @@ Visual presentation
 
 ![timer](https://raw.githubusercontent.com/cotang/timer/master/video.gif)
 
+[Demo on heroku](https://cotang-timer.herokuapp.com/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
